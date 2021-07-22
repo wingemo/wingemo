@@ -20,7 +20,7 @@
 
 :man_student: Degree of Bachelor of Science, Computer And Systems Sciences
 
-:man_student:
+:man_student: Degree of Master of Science with a major in Information Systems 
 
 
 📫 How to reach me: 
