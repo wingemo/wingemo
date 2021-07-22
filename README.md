@@ -3,11 +3,8 @@
 <div align="center">  
 <h3>Hello World 👋<br> My name is Stephen Ajulu<br>I'm a Web Developer, Designer,<br>Content Creator and Cybsecurity Strategist</h3>
 
-<h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajuluscard.carrd.co/">Business Card</a> </h4>
+<h4> <a href="https://links.stephenajulu.com">Linkedin</a> • <a href="https://stephenajulu.com">Website</a> 
 
-📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-- philip.wingemo@outlook.com
-- [Linkedin](https://www.linkedin.com/in/philipwingemo/?originalSubdomain=se)
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
