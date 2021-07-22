@@ -6,7 +6,7 @@
 
 </div>
 
-🌱 I’m currently exploring JavaScript
+🌱 I’m currently exploring JavaScript (Full Stack)
 
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
