@@ -18,6 +18,8 @@
 <br>
 ✨ Below you can see some of my projects in Java, Erland, Assembly and JavaScript ✨
 
+:man_student:
+:man_student:
 
 <br>
 📫 How to reach me: 
