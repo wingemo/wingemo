@@ -18,11 +18,6 @@
 
 ✨ Below you can see some of my projects in Java, Erland, Assembly and JavaScript ✨
 
-:man_student: Degree of Bachelor of Science, Computer And Systems Sciences
-
-:man_student: Degree of Master of Science with a major in Information Systems 
-
-
 📫 How to reach me: 
 
 <!--
