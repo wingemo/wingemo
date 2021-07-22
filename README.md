@@ -14,7 +14,7 @@
 
 
 🔭 I’m currently working on a React project
-- [x] React
+- [ ] React
 
 📫 How to reach me: 
 
