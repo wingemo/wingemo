@@ -4,7 +4,7 @@
 <h3>Hello World 👋<br> My name is Philip Wingemo<br>I'm a Web Developer, Designer
   <br>
   <br>
-🌱 I’m currently learning JavaScript (Full Stack) 
+🌱 I’m currently learning JavaScript (Full Stack)  <br>
 🔭 I’m currently working on ...
 
 <!--
