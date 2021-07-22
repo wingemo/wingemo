@@ -4,7 +4,7 @@
 <h3>Hello World 👋<br> My name is Philip Wingemo<br>I'm a Web Developer, Designer
   <br>
   <br>
-🌱 I’m currently learning ...  
+🌱 I’m currently learning JavaScript (Client and back-side) 
   
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
