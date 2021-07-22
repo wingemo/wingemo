@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning JavaScript-Full Stack
 
-- [x] Socket.IO (Realtime application framework (Node.JS server))
+- [x] Socket.IO (Realtime application framework, Node.JS server)
 - [x] Airnode(Connects any web API directly to any blockchain application)
 
 
