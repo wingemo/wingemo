@@ -16,6 +16,8 @@
 🔭 I’m currently working on a React project
 - [ ] React
 <br>
+<br>
+✨ Below you can see some of my projects in Java, Assembly and JavaScript ✨
 
 📫 How to reach me: 
 
