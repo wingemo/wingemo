@@ -1,7 +1,7 @@
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Hello World 👋<br> My name is Philip Wingemo<br>🌱 I’m currently learning JavaScript -Full Stack <br>
+<h3>Hello World 👋<br> My name is Philip Wingemo<br>🌱 I’m currently learning Node.JS <br>
   <br>
   <br>
 
