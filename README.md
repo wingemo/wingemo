@@ -8,6 +8,9 @@
 
 🌱 I’m currently learning JavaScript-Full Stack
 
+- [x] Socket.IO
+- [x] 
+
 🔭 I’m currently working on a React project
 
 
