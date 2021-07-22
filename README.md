@@ -7,7 +7,9 @@
 </div>
 
 🌱 I’m currently learning JavaScript-Full Stack
-🔭 I’m currently working on a react project.
+
+🔭 I’m currently working on a react project
+
 
 📫 How to reach me: 
 
