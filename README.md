@@ -10,11 +10,11 @@
 
 - [x] Socket.IO (Realtime application framework, Node.JS server)
 - [x] Airnode (Connects any web API directly to any blockchain application)
-- [x] Jquery (Connects any web API directly to any blockchain application)
+- [x] Jquery (HTML document traversal and manipulation, event handling, animation, and Ajax)
 
 
 🔭 I’m currently working on a React project
-
+- [x] React
 
 📫 How to reach me: 
 
