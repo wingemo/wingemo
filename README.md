@@ -4,6 +4,10 @@
   <br>
   <br>
 
+</div>
+
+🌱 I’m currently learning ...
+
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
