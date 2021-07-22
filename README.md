@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning JavaScript (Full Stack)
 
+🔭 I’m currently working on a react project.
+
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
