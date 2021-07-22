@@ -4,7 +4,7 @@
 <h3>Hello World 👋<br> My name is Stephen Ajulu<br>I'm a Web Developer, Designer,<br>Content Creator and Cybsecurity Strategist</h3>
 
 <h3><a href="https://links.stephenajulu.com">Linkedin</a> • <a href="https://stephenajulu.com">Website</a> 
-
+<p>
 🌱 I’m currently learning ...  
   
 <!--
