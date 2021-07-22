@@ -14,7 +14,7 @@
 
 
 🔭 I’m currently working on a React project
-- [ ] React
+- [ ] React (A JavaScript library for building user interfaces)
 
 ✨ Below you can see some of my projects in Java, Erland, Assembly and JavaScript ✨
 
