@@ -18,7 +18,7 @@
 
 ✨ Below you can see some of my projects in Java, Erland, Assembly and JavaScript ✨
 
-:man_student: 
+:man_student: Degree of Bachelor of Science, Computer And Systems Sciences
 
 :man_student:
 
