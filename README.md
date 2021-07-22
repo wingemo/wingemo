@@ -1,10 +1,9 @@
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Hello World 👋<br> My name is Philip Wingemo<br> :man_student: Master: Information Systems
+<h3>Hello World 👋<br> My name is Philip Wingemo<br>🌱 I’m currently learning JavaScript (Full Stack)  <br>
   <br>
   <br>
-🌱 I’m currently learning JavaScript (Full Stack)  <br>
 
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
