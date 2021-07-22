@@ -3,8 +3,8 @@
 🔭 I’m currently 
 
 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[Linkedin](https://www.google.com)
-
+- [Linkedin](https://www.google.com)
+- philip.wingemo@outlook.com
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
