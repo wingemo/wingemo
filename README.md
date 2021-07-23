@@ -1,6 +1,6 @@
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
-<div align="center">Hello World 👋<br> My name is Philip Wingemo<br> #Technology 🐠 #Business 🐳
+<div align="">Hello World 👋<br> My name is Philip Wingemo<br> #Technology 🐠 #Business 🐳
   <br>
   <br>
 
