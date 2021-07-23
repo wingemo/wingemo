@@ -9,7 +9,7 @@
 🌱 I’m currently learning JavaScript-Full Stack
 
 - [x] Socket.IO (Real-time bidirectional event-based chat application :shark:)
-- [x] Airnode (Connects any web API directly to any blockchain application)
+- [x] Airnode (Connects Swedbank Fx API directly to any blockchain application)
 
 
 🔭 I’m currently working on a React project
