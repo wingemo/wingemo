@@ -10,7 +10,6 @@
 
 - [x] Socket.IO (Real-time bidirectional event-based chat application :shark:)
 - [x] Airnode (Connects any web API directly to any blockchain application)
-- [x] Jquery (HTML document traversal and manipulation, event handling, animation, and Ajax)
 
 
 🔭 I’m currently working on a React project
