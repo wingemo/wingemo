@@ -17,7 +17,7 @@
 
 ✨ Below you can see some of my projects in Java, Erlang, Assembly and JavaScript ✨
 
-📫 How to reach me: Linkedin 
+📫 How to reach me: [Linkedin](https://www.google.com)
 
 <!--
 **wingemo/wingemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
