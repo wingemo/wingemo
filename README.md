@@ -15,7 +15,7 @@
 🔭 I’m currently working on a React project
 - [ ] React (A JavaScript library for building user interfaces)
 
-✨ Below you can see some of my projects in Java, Erlang, Assembly and JavaScript ✨
+✨ Below you can see some of my projects in Java, Erlang, Assembly, PHP and JavaScript ✨
 
 📫 How to reach me: [Linkedin](https://www.google.com)
 
