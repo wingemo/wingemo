@@ -5,6 +5,10 @@
   <br>
 
 </div>
+- 1947 ASSEMBLY
+- 1960 COBOL
+- 1991 JAVA
+- 2009 Node.js
 
 🌱 I’m currently learning JavaScript-Full Stack
 
