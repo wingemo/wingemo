@@ -6,7 +6,7 @@
 
 </div>
 
-🔭 I’m currently working on a history project 
+🔭 I’m currently working on a history project to teach me the journey from low-level language to high-level language
 
 - 1947 ASSEMBLY <br>
 - 1960 COBOL <br>
