@@ -5,10 +5,11 @@
   <br>
 
 </div>
-- 1947 ASSEMBLY
-- 1960 COBOL
-- 1991 JAVA
-- 2009 Node.js
+
+- 1947 ASSEMBLY <br>
+- 1960 COBOL <br>
+- 1991 JAVA <br>
+- 2009 Node.js <br>
 
 🌱 I’m currently learning JavaScript-Full Stack
 
