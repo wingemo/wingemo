@@ -6,6 +6,8 @@
 
 </div>
 
+🔭 I’m currently working on a history project 
+
 - 1947 ASSEMBLY <br>
 - 1960 COBOL <br>
 - 1991 JAVA <br>
@@ -16,9 +18,6 @@
 - [x] Socket.IO (Real-time bidirectional event-based chat application :shark:)
 - [x] Airnode (Connects Swedbank FX API directly to any blockchain application)
 
-
-🔭 I’m currently working on a React project
-- [ ] React (A JavaScript library for building user interfaces)
 
 ✨ Below you can see some of my projects in Java, Erlang, Assembly, PHP and JavaScript ✨
 
