@@ -8,9 +8,9 @@
 
 🔭 I’m currently working on a history project to teach me the journey of computer sciences
 
-- 1947 ASSEMBLY <br>
-- 1960 COBOL <br>
-- 1991 JAVA <br>
+- 1947 Assembly <br>
+- 1960 Cobol <br>
+- 1991 Java <br>
 - 2009 Node.js <br>
 
 🌱 I’m currently learning JavaScript-Full Stack
