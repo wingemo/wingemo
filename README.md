@@ -11,7 +11,7 @@
 [x] 1947 Assembly <br>
 [x] 1960 Cobol <br>
 [x] 1991 Java <br>
-[] 2009 Node.js <br>
+[ ] 2009 Node.js <br>
 
 🌱 I’m currently learning Cobolt
 
