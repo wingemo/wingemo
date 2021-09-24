@@ -8,16 +8,12 @@
 
 🔭 I’m currently working on a history project to teach me the journey of computer sciences
 
-- 1947 Assembly <br>
-- 1960 Cobol <br>
-- 1991 Java <br>
-- 2009 Node.js <br>
+[x] 1947 Assembly <br>
+[x] 1960 Cobol <br>
+[x] 1991 Java <br>
+[] 2009 Node.js <br>
 
 🌱 I’m currently learning Cobolt
-
-- [x] Socket.IO (Real-time bidirectional event-based chat application :shark:)
-- [x] Airnode (Connects Swedbank FX API directly to any blockchain application)
-
 
 ✨ Below you can see some of my projects in Java, Erlang, Assembly, PHP and JavaScript ✨
 
