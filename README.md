@@ -13,7 +13,7 @@
 - 1991 Java <br>
 - 2009 Node.js <br>
 
-🌱 I’m currently learning JavaScript-Full Stack
+🌱 I’m currently learning Cobolt
 
 - [x] Socket.IO (Real-time bidirectional event-based chat application :shark:)
 - [x] Airnode (Connects Swedbank FX API directly to any blockchain application)
