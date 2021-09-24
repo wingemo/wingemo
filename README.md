@@ -8,10 +8,10 @@
 
 🔭 I’m currently working on a history project to teach me the journey of computer sciences
 
-[x] 1947 Assembly <br>
-[x] 1960 Cobol <br>
-[x] 1991 Java <br>
-[ ] 2009 Node.js <br>
+- [x] 1947 Assembly <br>
+- [x] 1960 Cobol <br>
+- [x] 1991 Java <br>
+- [] 2009 Node.js <br>
 
 🌱 I’m currently learning Cobolt
 
