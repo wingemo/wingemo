@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning Cobolt
 
-✨ Below you can see some of my projects in Java, Erlang, Assembly, PHP and JavaScript ✨
+✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript✨
 
 📫 How to reach me: [Linkedin](https://www.google.com)
 
