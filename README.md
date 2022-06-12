@@ -20,7 +20,7 @@
 - Exchange term, University of Helsinki ✈️
 - B.Sc Computer and Systems Sciences, Stockhom University 
 
-✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript✨
+✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript ✨
 
 - [x] Thread safe stream socket chat server, Java 🔭 <br> 
 - [x] Altera Nios II processor at the assembly language level 🐬
