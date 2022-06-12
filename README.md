@@ -12,8 +12,8 @@
 🏦 I have 3 years of experience in the financial industry 🔭
 
   &nbsp; 🛰️ FX Solutions Specialist, Swedbank (Foreign exchange 🏝️)<br>
-  &nbsp; 🛥️ Trade Credit Administrator, Swedbank (Boats 😄) 
-
+  &nbsp; 🛥️ Trade Credit Administrator, Swedbank (Boats 😄) <br>
+  &nbsp; 👔 Summer Internship, Infrasec - Yabie (Security products for transactions 🔑)
 
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
