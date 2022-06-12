@@ -11,8 +11,8 @@
 
 🏦 I have 3 years of experience in the financial industry 🔭
 
-  &nbsp; 🛰️ FX Solutions Specialist, Swedbank (🏝️)<br>
-  &nbsp; 🤖 Process Automation Internship, Swedbank (RPA 🥴) <br>
+  &nbsp; 🛰️ FX Solutions Specialist 🏝️<br>
+  &nbsp; 🤖 Process Automation Internship <br>
   &nbsp; 🛥️ Trade Credit Administrator<br>
   &nbsp; 🔑 Internship, Infrasec - Yabie
 
