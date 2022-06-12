@@ -2,7 +2,8 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="">Hello World 👋 #Technology 🐠 #Business 🐳
   <hr>
-   My interest is in system analysis, system design, data communication, database design and project management.
+   🐬 My interest is in system analysis, system design, data communication, database design and project management.
+      In summary, I am interested in Business-IT alignment
   <br>
   <br>
 
