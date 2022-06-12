@@ -12,9 +12,9 @@
 🏦 I have 3 years of experience in the financial industry 🔭
 
   &nbsp; 🛰️ FX Solutions Specialist 🏝️<br>
-  &nbsp; 🤖 Process Automation Internship <br>
-  &nbsp; 🛥️ Trade Credit Administrator<br>
-  &nbsp; 🔑 Internship, Infrasec - Yabie
+  &nbsp; 🤖 Process Automation Internship 🐃 <br>
+  &nbsp; 🛥️ Trade Credit Administrator 🐧<br>
+  &nbsp; 🔑 Internship, Infrasec - Yabie 🐚
 
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
