@@ -22,7 +22,8 @@
 
 ✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript✨
 
-Thread safe stream socket chat server, Java 🔭 Projects where I programming the Altera Nios II processor at the assembly language level 🐬
+- [x] Thread safe stream socket chat server, Java 🔭 <br> 
+- [x] Altera Nios II processor at the assembly language level 🐬
 
 📫 How to reach me: [Linkedin](https://www.google.com)
 
