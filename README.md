@@ -13,7 +13,7 @@
 
   &nbsp; 🛰️ FX Solutions Specialist, Swedbank (🏝️)<br>
   &nbsp; 🤖 Process Automation Internship, Swedbank (RPA 🥴) <br>
-  &nbsp; 🛥️ Trade Credit Administrator, Swedbank (Boats 😄) <br>
+  &nbsp; 🛥️ Trade Credit Administrator<br>
   &nbsp; 🔑 Internship, Infrasec - Yabie
 
 🌱 Boring official education 🤔
