@@ -9,12 +9,11 @@
 
 </div>
 
-🔭 I’m currently working on a history project to teach me the journey of computer sciences
+🏦 I have 3 years of experience in the financial industry 🔭
 
-- [x] 1947 Assembly <br>
-- [x] 1960 Cobol <br>
-- [x] 1991 Java <br>
-- [ ] 2009 Node.js <br>
+  &nbsp; 🛰️ FX Solutions Specialist, Swedbank (Foreign exchange 🏝️)<br>
+  &nbsp; 🛥️ Trade Credit Administrator, Swedbank (Boats 😄) 
+
 
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
