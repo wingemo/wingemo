@@ -1,6 +1,6 @@
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
-<div align="">Hello World 👋 #Technology 🐠 #Business 🐳
+<div align="">Hello World 👋 #Technology 🐠 #Business 🐳 #Resumé 
   <hr>
    🐬 My interest is in system analysis, system design, data communication, database design and project management.
   In summary, I am interested in <b>Business-IT alignment</b>.
@@ -16,7 +16,10 @@
 - [x] 1991 Java <br>
 - [ ] 2009 Node.js <br>
 
-🌱 I’m currently learning Cobolt
+🌱 Boring official education 🤔
+- M.Sc. Information Systems, Linköping University
+- Exchange term, University of Helsinki 
+- B.Sc Computer and Systems Sciences, Stockhom University 
 
 ✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript✨
 
