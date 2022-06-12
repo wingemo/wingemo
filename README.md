@@ -18,8 +18,8 @@
 
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
-- Exchange term, University of Helsinki ✈️
 - B.Sc Computer and Systems Sciences, Stockhom University 
+- Exchange term, University of Helsinki ✈️
 
 ✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript ✨
 
