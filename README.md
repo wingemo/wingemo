@@ -22,6 +22,8 @@
 
 ✨ Below you can see some of my projects in Assembly, Cobolt, Java and JavaScript✨
 
+Thread safe stream socket chat server, Java 🔭
+
 📫 How to reach me: [Linkedin](https://www.google.com)
 
 <!--
