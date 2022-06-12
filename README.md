@@ -14,7 +14,7 @@
   &nbsp; 🛰️ FX Solutions Specialist, Swedbank (🏝️)<br>
   &nbsp; 🤖 Process Automation Internship, Swedbank (RPA 🥴) <br>
   &nbsp; 🛥️ Trade Credit Administrator, Swedbank (Boats 😄) <br>
-  &nbsp; 👔 Internship, Infrasec - Yabie (Security products for transactions 🔑)
+  &nbsp; 🔑 Internship, Infrasec - Yabie
 
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
