@@ -9,7 +9,7 @@
 
 </div>
 
-🏦 I have 3 years of experience in the financial industry 🔭
+🏦 3 years of experience - financial industry 🔭
 
   &nbsp; 🛰️ FX Solutions Specialist 🏝️<br>
   &nbsp; 🤖 Process Automation Internship 🐃 <br>
