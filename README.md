@@ -9,22 +9,12 @@
 
 </div>
 
-🏦 3 years of experience - financial industry 🔭
-
-  &nbsp; 🛰️ FX Solutions Specialist 🏝️<br>
-  &nbsp; 🤖 Process Automation Internship 🐃 <br>
-  &nbsp; 🛥️ Trade Credit Administrator 🐧<br>
-  &nbsp; 🔑 Internship, Infrasec - Yabie 🐚
-
 🌱 Boring official education 🤔
 - M.Sc. Information Systems, Linköping University
 - B.Sc Computer and Systems Sciences, Stockhom University 
 - Exchange term, University of Helsinki ✈️
 
 ✨ Below you can see some projects ✨
-
-- [x] Thread safe stream socket chat server, Java 🔭 <br> 
-- [x] Altera Nios II processor at the assembly language level 🐬
 
 📫 How to reach me: [Linkedin](https://www.google.com)
 
