@@ -13,7 +13,6 @@
 - M.Sc. Information Systems, Linköping University
 - M.Sc. Computer Scienes (1 term), University of Helsinki ✈️
 - B.Sc Computer and Systems Sciences, Stockhom University 
-- Exchange term, University of Helsinki ✈️
 
 ✨ Below you can see some projects ✨
 
